@@ -6,7 +6,7 @@
 - **프로젝트 소개**: 프로젝트 종료 후 팀원을 평가하여 객관적으로 자신을 알아가는 플렛폼
 - **개발 기간**: 3개월 (iOS 개발 단독 담당)  
 - **팀 구성**: iOS (김수은), 서버 (팀원 A), 디자인 (팀원 B)  
-- **배포 링크**: [App Store 바로가기]([https://apps.apple.com](https://apps.apple.com/kr/app/curve/id6740055690)/)  
+- **배포 링크**: [App Store 바로가기](https://apps.apple.com](https://apps.apple.com/kr/app/curve/id6740055690)/)  
 
 ---
 
