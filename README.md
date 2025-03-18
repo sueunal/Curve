@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/bbb5af5b-c16e-4f65-ae87-141e49cf9d9b)
+![120](https://github.com/user-attachments/assets/6bd997c7-801a-49ea-b989-0da23b1cce28)
+
 
 ## 📱 [Curve] iOS 앱 개발 (2024.12 – 2025.03)
 
